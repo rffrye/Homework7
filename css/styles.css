@@ -476,7 +476,12 @@ mark,
 .img-fluid {
   max-width: 100%;
   height: auto;
+  flood-opacity: 10%;
 }
+ 
+#headshot {
+  max-width: 100px;
+ }
 
 .img-thumbnail {
   padding: 0.25rem;
@@ -10307,7 +10312,7 @@ body {
 
 .signup-section {
   padding: 10rem 0;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.5) 75%, #000000 100%), url("../assets/img/bg-signup.jpg");
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.5) 75%, #000000 100%), url("../assets/img/keyboard.png");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
