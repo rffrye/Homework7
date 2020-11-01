@@ -8,18 +8,23 @@ This project is intended to update our portfolio and show off more of our abilit
 
 #### Links 
 
-  * Git hub: https://github.com/rffrye/Homework7
-  * Deployed Page: https://rffrye.github.io/Homework7/
+* Git hub: https://github.com/rffrye/Homework7
+* Deployed Page: https://rffrye.github.io/Homework7/
 
 #### Screenshots 
 
-* ![GitHub Logo](assets/img/ss1.png)
+ ![GitHub Logo](assets/img/ss1.png)
+ ![GitHub Logo](assets/img/ss2.png)
+ ![GitHub Logo](assets/img/ss3.png)
+ ![GitHub Logo](assets/img/ss4.png)
 
-* ![GitHub Logo](assets/img/ss2.png)
+#### Technologies Used 
 
-* ![GitHub Logo](assets/img/ss3.png)
-
-* ![GitHub Logo](assets/img/ss4.png)
+* HTML
+* CSS
+* Javascript
+* Bootstrap
+* Bootstrap Themes
 
 
 
